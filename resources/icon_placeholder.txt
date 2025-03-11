@@ -1,0 +1,10 @@
+This is a placeholder file for the application icon.
+
+For a production application, you would want to add an actual icon.png file here.
+Due to text-based limitations, we can't create a real PNG icon in this session.
+
+To create an icon:
+1. Design a 256x256 PNG icon with transparency
+2. Name it "icon.png" and place it in this directory
+3. Create a second version named "icon_enabled.png" that appears slightly different
+   (perhaps with a filter effect applied) to indicate when the filter is active 
