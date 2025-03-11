@@ -10,6 +10,11 @@ A blue light filter application for Windows that helps reduce eye strain by adju
 - Minimal system resource usage
 - System tray integration
 
+- ![image](https://github.com/user-attachments/assets/613216ec-3cb2-4759-8085-8833b750dd4c)
+- ![image](https://github.com/user-attachments/assets/cabb4e33-2e8a-4e64-b30c-aa5ae4b8e372)
+
+
+
 ## Building from Source
 
 ### Requirements
@@ -92,4 +97,4 @@ To create an installer using Inno Setup:
 
 ## Credits
 
-Created by Isaac B 
+Created by [Isaac B] 
