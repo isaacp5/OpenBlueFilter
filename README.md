@@ -70,10 +70,7 @@ To create an installer using Inno Setup:
 ## Installation
 
 ### Option 1: Download the Installer (Recommended)
-1. Download the latest `OpenBlueFilter_Setup.exe` from the [Releases](https://github.com/isaacp5/OpenBlueFilter/releases) page
-   - Note: When you first push your code to GitHub, the installer won't be immediately available
-   - GitHub Actions will automatically build the executable when you push to the main branch
-   - You'll need to create a Release and attach the built artifact (from the Actions tab) to make it downloadable
+1. Download the `OpenBlueFilter_Setup.exe` from the [v0.1 Release](https://github.com/isaacp5/OpenBlueFilter/releases/tag/v0.1) page
 2. Run the installer and follow the prompts
 3. Launch OpenBlueFilter from your Start menu or desktop
 
