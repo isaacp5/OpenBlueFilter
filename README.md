@@ -97,4 +97,4 @@ To create an installer using Inno Setup:
 
 ## Credits
 
-Created by [Isaac B] 
+Created by Isaac B
